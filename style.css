@@ -1,0 +1,55 @@
+#h11 {
+    font-weight: bold;
+    color: blueviolet;
+}
+
+body {
+    background: linear-gradient( pink, blue, purple);
+    text-align: center;
+    font-size: 30px;
+}
+#d1 {
+    background-color: aquamarine;
+    text-align: center;
+    border: 4px antiquewhite ridge;
+    padding: 10px;
+    width: 60%;
+    border-radius: 20px;
+    box-shadow:  5px 5px 30px lightseagreen;
+   
+}
+#h12 {
+    color: red;
+    font-size: large;
+    
+
+}
+
+h3 {
+    color: blue;
+}
+
+h5 {
+    color: green;
+}
+
+button {
+    background-color: yellow;
+    color: red;
+    height: 50px;
+    width: 60px;
+}
+
+
+#img1 {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+}
+
+#logo {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+
+}
